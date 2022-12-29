@@ -1,5 +1,8 @@
 _repo: A-story-of-the-sawdust-The-pathetic-history-of-Old-Props-darling_69349
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69349-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69349#A-story-of-the-sawdust-The-pathetic-history-of-Old-Props-darling
 gutenberg_issued: '2022-11-14'
 identifiers:
   gutenberg: '69349'
